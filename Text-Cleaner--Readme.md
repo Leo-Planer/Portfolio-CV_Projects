@@ -9,5 +9,7 @@ Features:
 Application:
   Can be used for data preprocessing. Preparing Data for NLP, Data Storage Optimization.
 
+Tools: HTML, Javascript.
+
 
   ![image](https://github.com/user-attachments/assets/b04af1af-49e3-4d59-a74c-e4389e267e18)
